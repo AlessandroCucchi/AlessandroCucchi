@@ -23,21 +23,11 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
       </a>
     </td>
     <td>
-<h3>Fetal Health Analysis: spotting high-risk recordings early</h3>
+<h3>Fetal Health Analysis: identifying high-risk recordings early</h3>
 
-<p><b>The question:</b> can a company that builds prenatal monitoring tools help clinics with limited resources spot the heart-rate recordings that need a closer look?</p>
+<p>A company developing prenatal monitoring tools works with healthcare providers to help assess fetal health through heart-rate recordings collected during pregnancy. For clinics with limited resources, being able to identify recordings that may require closer attention is particularly valuable, as specialist time and more advanced monitoring equipment are not always readily available.</p>
 
-<p><b>What the analysis found:</b></p>
-
-<ul>
-  <li>Of the <b>35 high-risk cases</b> in the test set, <b>31 were correctly identified</b></li>
-
-  <li><b>5 measurements out of 21</b> were enough to achieve similar results, suggesting that simpler and more affordable monitoring tools could be possible</li>
-
-  <li>A rule that always answers "healthy" appears correct about 78% of the time but <b>finds no high-risk case at all</b>. For this reason, the analysis focused on detecting high-risk cases rather than overall accuracy</li>
-
-  <li>The results were consistent across <b>5 different samples</b> of the data, supporting the robustness of the approach</li>
-</ul>
+<p>With the aim of exploring how data could support this process, the project analyzes a dataset of fetal heart-rate measurements to identify patterns associated with high-risk cases and assess whether a smaller set of measurements could provide similar results. The analysis focuses on detecting high-risk recordings reliably, while also exploring whether simpler monitoring setups could make the process more accessible.</p>
 
 <p><b>Handle with care:</b> the test sample is relatively small.</p>
 
