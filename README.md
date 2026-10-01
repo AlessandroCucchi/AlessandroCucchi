@@ -39,7 +39,7 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
   <li>The results were consistent across <b>5 different samples</b> of the data, supporting the robustness of the approach</li>
 </ul>
 
-<p><b>Handle with care:</b> the test sample is relatively small, and this project is a research exercise rather than a clinical tool.</p>
+<p><b>Handle with care:</b> the test sample is relatively small.</p>
 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas">
@@ -52,16 +52,6 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
 
 More projects coming soon.
 
-## 🧭 How I approach an analysis
-
-| Principle | What it means for you |
-|---|---|
-| **Start with the decision** | Before opening the data, I agree on what the business actually needs to decide |
-| **Compare with the simple alternative** | Every result is shown next to a "do nothing clever" option, so you can see the real value added |
-| **Measure what matters** | I pick the measure of success that reflects the real cost of mistakes, not the most flattering number |
-| **Check that it holds up** | Findings are re-tested on different samples of data, so they are not a coincidence |
-| **Be upfront about limits** | Every report says how much data it rests on and what it cannot prove |
-
 ## 🛠️ Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -71,8 +61,6 @@ More projects coming soon.
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 🤝 Let's connect
 
