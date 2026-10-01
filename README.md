@@ -19,7 +19,7 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
   <tr>
     <td width="42%">
       <a href="https://github.com/YOUR-USERNAME/fetal-health-classification">
-        <img src="assets/fetal_health_results.png" alt="Fetal health analysis results">
+        <img src="assets/healthcare_icon.png" alt="Fetal health analysis results">
       </a>
     </td>
     <td>
