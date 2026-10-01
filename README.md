@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Alessandro Cucchi: Rigorous, Curious, Practical" width="100%">
+  <img src="assets/background.jfif" alt="Background" width="100%">
 </p>
 
 # Hi 👋, I'm Alessandro Cucchi
