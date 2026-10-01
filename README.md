@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/background.jfif" alt="Background" width="100%">
+  <img src="assets/background.jfif" alt="Background" width="100%" height = "50%">
 </p>
 
 # Hi 👋, I'm Alessandro Cucchi
