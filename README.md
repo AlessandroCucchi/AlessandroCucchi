@@ -41,7 +41,7 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
 
 <p><b>Handle with care:</b> the test sample is relatively small, and this project is a research exercise rather than a clinical tool.</p>
 
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas">
       <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
       <br><br>
