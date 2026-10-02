@@ -91,7 +91,7 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
 </table>
 
 <p align="center">
-      <a href="[https://drive.google.com/file/d/14HAPM5gILiywRJ2osYlkmTNN52h74our/view](https://drive.google.com/file/d/13VwE_DQOWgm-x9hcvJmBAFmXzyYDT0iq/view?usp=sharing)" target="_blank">
+      <a href="https://drive.google.com/file/d/13VwE_DQOWgm-x9hcvJmBAFmXzyYDT0iq/view?usp=sharing" target="_blank">
         <img width="240px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1746296413/Data_Analysis/resume_button" />
     </a>
 </p>
