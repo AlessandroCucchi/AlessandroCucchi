@@ -36,7 +36,7 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
       <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas">
       <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
       <br><br>
-      <a href="https://github.com/YOUR-USERNAME/wine-cultivar-analysis"><b>Go to project →</b></a>
+      <a href="https://github.com/AlessandroCucchi/wine_cultivar_analysis"><b>Go to project →</b></a>
     </td>
   </tr>
 </table>
@@ -59,12 +59,11 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
       <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas">
       <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
       <br><br>
-      <a href="https://github.com/YOUR-USERNAME/fetal-health-classification"><b>Go to project →</b></a>
+      <a href="https://github.com/AlessandroCucchi/fetal_health_classification"><b>Go to project →</b></a>
     </td>
   </tr>
 </table>
 
-More projects coming soon.
 
 ## 🛠️ Tools
 
