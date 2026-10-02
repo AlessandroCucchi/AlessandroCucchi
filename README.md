@@ -18,7 +18,7 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
 <table>
   <tr>
     <td width="42%" align="center">
-      <a href="https://github.com/YOUR-USERNAME/wine-cultivar-analysis">
+      <a href="https://github.com/AlessandroCucchi/wine_cultivar_analysis">
         <img src="assets/wine_icon.png" alt="Wine cultivar analysis icon" width="260">
       </a>
     </td>
@@ -44,7 +44,7 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
 <table>
   <tr>
     <td width="42%">
-      <a href="https://github.com/YOUR-USERNAME/fetal-health-classification">
+      <a href="https://github.com/AlessandroCucchi/fetal_health_classification">
         <img src="assets/healthcare_icon.png" alt="Fetal health analysis results">
       </a>
     </td>
