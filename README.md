@@ -18,6 +18,32 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
 <table>
   <tr>
     <td width="42%" align="center">
+      <a href="https://github.com/AlessandroCUcchi/food_platform_analysis">
+        <img src="assets/food_icon.png" alt="Food platform analysis icon" width="260">
+      </a>
+    </td>
+    <td>
+      <h3>Food Platform Analysis: where does the growth come from?</h3>
+      <p><b>The question:</b> can a cooking platform understand why its community is growing, which users are about to leave, and where to focus next year?</p>
+      <p><b>What the analysis found:</b></p>
+      <ul>
+        <li>Activity grew <b>almost six-fold in three years</b> (108 to 623 cooking sessions a year) while new sign-ups stayed flat, so growth comes from existing users cooking more, not from more users joining</li>
+        <li>Users do not fall into natural groups, so I built four simple behavioural segments. <b>23% of users</b> used to be as active as the best ones but have been silent for about 200 days, which makes them the best group to win back</li>
+        <li>Recipe type, chef and device barely change how people rate meals (all around 3 to 3.3 stars), so changing the catalogue is unlikely to be the main lever</li>
+        <li>Newer sign-up groups become active <b>much faster</b> than older ones, a pattern worth understanding and repeating</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+      <br><br>
+      <a href="https://github.com/AlessandroCUcchi/food_platform_analysis"><b>Go to project →</b></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="42%" align="center">
       <a href="https://github.com/AlessandroCucchi/wine_cultivar_analysis">
         <img src="assets/wine_icon.png" alt="Wine cultivar analysis icon" width="260">
       </a>
