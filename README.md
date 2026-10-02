@@ -19,7 +19,7 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
   <tr>
     <td width="42%" align="center">
       <a href="https://github.com/AlessandroCucchi/food_platform_analysis">
-        <img src="assets/food_icon.png" alt="Food platform analysis icon" width="260">
+        <img src="assets/food_icon.svg" alt="Food platform analysis icon" width="260">
       </a>
     </td>
     <td>
