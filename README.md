@@ -44,6 +44,34 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
 <table>
   <tr>
     <td width="42%" align="center">
+      <a href="https://github.com/AlessandroCucchi/Online_Grocer_Analysis">
+        <img src="assets/grocer_icon.svg" alt="Online grocer analysis icon" width="260">
+      </a>
+    </td>
+    <td>
+      <h3>Online Grocer Analysis: what keeps customers coming back every week?</h3>
+      <p><b>The question:</b> an online grocer delivering in fixed time slots lives on repeat business. When do customers order, how often do they come back, and what do they buy again?</p>
+      <p><b>What the analysis found:</b></p>
+      <ul>
+        <li>Weekly shoppers are <b>32% of customers</b> but place <b>57% of all orders</b>; together with bi-weekly shoppers they place <b>81%</b></li>
+        <li><b>30k regular customers (15%)</b> had a last gap of at least twice their usual rhythm, most of them bi-weekly shoppers</li>
+        <li>Fresh food is <b>55% of the basket</b> and the most predictable demand: reordered <b>69% of the time</b> vs 55% for other products, which makes it the best place to cut waste with order data</li>
+        <li>The first basket is an early signal: new customers who buy organic family items become weekly shoppers <b>40-44% of the time</b>, vs 32% overall</li>
+      </ul>
+      <img src="https://img.shields.io/badge/SQL-4479A1" alt="SQL">
+      <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black" alt="DuckDB">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+      <br><br>
+      <a href="https://github.com/AlessandroCucchi/Online_Grocer_Analysis"><b>Go to project →</b></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="42%" align="center">
       <a href="https://github.com/AlessandroCucchi/wine_cultivar_analysis">
         <img src="assets/wine_icon.png" alt="Wine cultivar analysis icon" width="260">
       </a>
