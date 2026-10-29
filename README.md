@@ -18,6 +18,33 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
 <table>
   <tr>
     <td width="42%" align="center">
+      <a href="https://github.com/AlessandroCucchi/Restaurant_Demand_Forecasting">
+        <img src="assets/restaurant_icon.svg" alt="Restaurant demand forecasting icon" width="260">
+      </a>
+    </td>
+    <td>
+      <h3>Restaurant Demand Forecasting: how many covers tomorrow?</h3>
+      <p><b>The question:</b> can 829 restaurants forecast tomorrow's covers better than "same as last week", using their own history and online reservations?</p>
+      <p><b>What the analysis found:</b></p>
+      <ul>
+        <li>Daily demand is volatile: in <b>63%</b> of restaurants covers move by more than half of an average day, and Saturday brings <b>1.6x</b> Monday's covers</li>
+        <li>Online reservations show only part of the demand: <b>~21%</b> of covers where they are used, <b>17%</b> known the day before</li>
+        <li>A gradient boosting model cuts the forecast error from <b>41.9% to 31.8%</b>: <b>24% fewer covers misplanned</b> and <b>45% less food prepared and not served</b></li>
+        <li>The model under-forecasts by <b>~9%</b>: the bias is measured and flagged as the next fix, with holidays and one-off events still planned by hand</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+      <br><br>
+      <a href="https://github.com/AlessandroCucchi/Restaurant_Demand_Forecasting"><b>Go to project →</b></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="42%" align="center">
       <a href="https://github.com/AlessandroCucchi/Hotel_Cancellation_Analysis">
         <img src="assets/hotel_icon.svg" alt="Hotel cancellation analysis icon" width="260">
       </a>
