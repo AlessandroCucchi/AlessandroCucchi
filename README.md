@@ -18,6 +18,34 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
 <table>
   <tr>
     <td width="42%" align="center">
+      <a href="https://github.com/AlessandroCucchi/Hotel_Cancellation_Analysis">
+        <img src="assets/hotel_icon.svg" alt="Hotel cancellation analysis icon" width="260">
+      </a>
+    </td>
+    <td>
+      <h3>Hotel Cancellation Analysis: which bookings will be cancelled, and what can a hotel do about it?</h3>
+      <p><b>The question:</b> for a resort and a city hotel, how often are bookings cancelled, when does it cost most, and can the risk be estimated on the day of booking?</p>
+      <p><b>What the analysis found:</b></p>
+      <ul>
+        <li><b>37% of bookings are cancelled</b>, and cancellations peak when rooms are most expensive: resort prices rise <b>3.5x</b> in summer, and so do cancellations</li>
+        <li>The risk grows with lead time: from <b>9.6%</b> for bookings made a week before arrival to <b>67.7%</b> for bookings made over a year ahead</li>
+        <li>"Non Refund" bookings are cancelled <b>99.4%</b> of the time: they turned out to be tour-operator room blocks, a quarter of the city hotel's cancellations</li>
+        <li>A model tested on 2017 bookings ranks cancellation risk with <b>ROC AUC 0.82</b>, after removing columns that leak the outcome, and feeds risk tiers and weekly forecasts. A <a href="https://public.tableau.com/views/Presentazione_Hotel_Cancellations/Dashboard1">Tableau dashboard</a> summarises the KPIs</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+      <br><br>
+      <a href="https://github.com/AlessandroCucchi/Hotel_Cancellation_Analysis"><b>Go to project →</b></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="42%" align="center">
       <a href="https://github.com/AlessandroCucchi/Online_Grocer_Analysis">
         <img src="assets/grocer_icon.svg" alt="Online grocer analysis icon" width="260">
       </a>
