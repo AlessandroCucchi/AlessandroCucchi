@@ -29,7 +29,7 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
       <ul>
         <li>Daily demand is volatile: in <b>63%</b> of restaurants covers move by more than half of an average day, and Saturday brings <b>1.6x</b> Monday's covers</li>
         <li>Online reservations show only part of the demand: <b>~21%</b> of covers where they are used, <b>17%</b> known the day before</li>
-        <li>A gradient boosting model cuts the forecast error from <b>41.9% to 31.8%</b>: <b>24% fewer covers misplanned</b> and <b>45% less food prepared and not served</b></li>
+        <li>A gradient boosting model cuts the forecast error from <b>41.9% to 31.8%</b>: <b>24% fewer covers misplanned</b> than <b>"same as last week" (9% fewer than the best simple rule)</b></li>
         <li>The model under-forecasts by <b>~9%</b>: the bias is measured and flagged as the next fix, with holidays and one-off events still planned by hand</li>
       </ul>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
