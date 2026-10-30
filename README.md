@@ -57,7 +57,7 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
         <li><b>37% of bookings are cancelled</b>, and cancellations peak when rooms are most expensive: resort prices rise <b>3.5x</b> in summer, and so do cancellations</li>
         <li>The risk grows with lead time: from <b>9.6%</b> for bookings made a week before arrival to <b>67.7%</b> for bookings made over a year ahead</li>
         <li>"Non Refund" bookings are cancelled <b>99.4%</b> of the time: they turned out to be tour-operator room blocks, a quarter of the city hotel's cancellations</li>
-        <li>A model tested on 2017 bookings ranks cancellation risk with <b>ROC AUC 0.82</b>, after removing columns that leak the outcome, and feeds risk tiers and weekly forecasts. A <a href="https://public.tableau.com/views/Presentazione_Hotel_Cancellations/Dashboard1">Tableau dashboard</a> summarises the KPIs</li>
+        <li>A model tested on 2017 bookings ranks cancellation risk with <b>ROC AUC 0.82</b>, after removing columns that leak the outcome, and feeds risk tiers and weekly forecasts. A <a href="https://public.tableau.com/views/HotelCancellationsRevenueatRisk/HotelCancellations">Tableau dashboard</a> summarises the KPIs</li>
       </ul>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas">
