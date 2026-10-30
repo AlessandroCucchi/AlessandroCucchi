@@ -124,5 +124,5 @@ I'm a data analyst. I take raw numbers, work out what they really say, and expla
 
 ## 🤝 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/alessandrocucchi-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrocucchi-)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.cucchi208@gmail.com)
